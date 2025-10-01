@@ -38,7 +38,7 @@ elif choice == 2:
     else:
         result = num
     print(f"Result is {num}")
-    # lukuun lisätään eri luku aina silloin kun se on suurempi kuin kyseinen ehto täyttyy
+    # lukuun lisätään eri luku aina silloin kun se on suurempi kuin mitä ehto vaatii
 
 
 elif choice == 0:
